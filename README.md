@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rhortal
+- 👋 Hi, I’m @rhortal. I've been coding since the 1980s and working in tech for over 20 years.
 - 👀 I’m interested in Home Automation, Self Hosting, Ansible and Product Management
 - 🌱 I’m currently learning Ansible and Docker
 - 💞️ I’m looking to collaborate on things to make Things smarter
